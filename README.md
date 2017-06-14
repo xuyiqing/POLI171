@@ -1,9 +1,11 @@
 ## Welcome to POLI 171 at UCSD
 
-THIS course explores how we can make policy recommendations using
+by [Yiqing Xu](http://yiqingxu.org/)
+
+This course explores how we can make policy recommendations using
 data. The overall goal of this course is to introduce a basic
-framework for policy evaluation--what we call *design-based causal
-inference*--essentially, how we can use statistical methods to answer
+framework for policy evaluation -- what we call *design-based causal
+inference* -- essentially, how we can use statistical methods to answer
 research questions that concern the impact of some cause on certain
 policy outcomes. We cover the mostly commonly used research designs,
 including randomized experiments, selection on observables, and
@@ -26,10 +28,10 @@ concepts
 ### Lecture Slides
 
 * [Introduction](./2017spring/01_intro.pdf)
-* [Potential Outcomes Framework](./2017spring/01_intro.pdf)
-* [Randomized Controlled Trials](./2017spring/01_intro.pdf)
-* [Selection on Observables](./2017spring/01_intro.pdf)
-* [Difference-in-Differences](./2017spring/01_intro.pdf)
+* [Potential Outcomes Framework](./2017spring/02_po.pdf)
+* [Randomized Controlled Trials](./2017spring/03_rct.pdf)
+* [Selection on Observables](./2017spring/04_soo.pdf)
+* [Difference-in-Differences](./2017spring/05_did.pdf)
 
 ### Policy Briefings
 
