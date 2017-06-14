@@ -9,13 +9,13 @@ inference* -- essentially, how we can use statistical methods to answer
 research questions that concern the impact of some cause on certain
 policy outcomes. We cover the mostly commonly used research designs,
 including randomized experiments, selection on observables, and
-difference-in-differences and analyze the strengths and weaknesses of
+difference-in-differences, and analyze the strengths and weaknesses of
 these methods using applications from the real world.
 
-From a skill-builidng perspective, this course has three objecives:
-1. Introduce an analytical framework of policy evaluation and several
+From a skill-builiding point of view, this course has three objecives:
+1. Introduce an analytical framework for policy evaluation and discuss several
 related methods
-2. Discuss the most basic (and some of the most important) statistical
+2. Introduce the most basic (and some of the most important) statistical
 concepts
 3. Equip students with basic coding skills using *R*
 
