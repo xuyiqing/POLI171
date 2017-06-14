@@ -32,6 +32,7 @@ concepts
 * [Randomized Controlled Trials](./2017spring/03_rct.pdf)
 * [Selection on Observables](./2017spring/04_soo.pdf)
 * [Difference-in-Differences](./2017spring/05_did.pdf)
+* [Final Review](./2017spring/06_review.pdf)
 
 ### Policy Briefings
 
@@ -45,10 +46,10 @@ I disccus one real-world application at the beginning of each class.
 * [Government Responsiveness in Authoritarian China](./2017spring/PB06_responsiveness.pdf)
 * [Why You Should Sleep More](./2017spring/PB07_sleep.pdf)
 * [Inequality in the United States](./2017spring/PB08_inequality.pdf)
-* [Volunteer for America: Do Veterans Earn More?](./2017spring/PB09_veteran.pdf)
+* [Volunteer for America](./2017spring/PB09_veteran.pdf)
 * [Do Politicians Benefit Personally from Holding Power?](./2017spring/PB10_mp_wealth.pdf)
 * [The Tragedy of Child Soldiers in Uganda](./2017spring/PB11_child_soldier.pdf)
-* [What Should Central Banks Do During a Financial Crisis?](./2017spring/PB12_bank_run.pdf)
+* [Central Bank and Financial Crisis](./2017spring/PB12_bank_run.pdf)
 * [Direct Democracy = Better Governance?](./2017spring/PB13_tax_assesser.pdf)
 * [Eradicating Malaria in the Americas](./2017spring/PB14_malaria.pdf)
 
