@@ -17,7 +17,7 @@ From a skill-builiding point of view, this course has three objecives:
 related methods
 2. Introduce the most basic (and some of the most important) statistical
 concepts
-3. Equip students with basic coding skills using *R*
+3. Equip students with basic coding skills with *R*
 
 ---
 
@@ -38,17 +38,17 @@ concepts
 
 I disccus one real-world application at the beginning of each class.
 
-* [Can Policing Protocols Imporve Stop-and-frisk Practices?](./2017spring/PB01_stop_frisk.pdf)
+* [Stop and Frisk](./2017spring/PB01_stop_frisk.pdf)
 * [Robots and Jobs](./2017spring/PB02_robot_jobs.pdf)
-* [Inequality and Support for Redistribution](./2017spring/PB03_inequality.pdf)
-* [Management and Productivity in Firms](./2017spring/PB04_management.pdf)
+* [Seeing Inequality](./2017spring/PB03_inequality.pdf)
+* [Management Can Be Taught](./2017spring/PB04_management.pdf)
 * [Fighting Corruption](./2017spring/PB05_corruption.pdf)
-* [Government Responsiveness in Authoritarian China](./2017spring/PB06_responsiveness.pdf)
+* [Government Responsiveness in China](./2017spring/PB06_responsiveness.pdf)
 * [Why You Should Sleep More](./2017spring/PB07_sleep.pdf)
 * [Inequality in the United States](./2017spring/PB08_inequality.pdf)
 * [Volunteer for America](./2017spring/PB09_veteran.pdf)
-* [Do Politicians Benefit Personally from Holding Power?](./2017spring/PB10_mp_wealth.pdf)
-* [The Tragedy of Child Soldiers in Uganda](./2017spring/PB11_child_soldier.pdf)
+* [Politicians for Sale](./2017spring/PB10_mp_wealth.pdf)
+* [The Tragedy of Child Soldiering](./2017spring/PB11_child_soldier.pdf)
 * [Central Bank and Financial Crisis](./2017spring/PB12_bank_run.pdf)
 * [Direct Democracy = Better Governance?](./2017spring/PB13_tax_assesser.pdf)
 * [Eradicating Malaria in the Americas](./2017spring/PB14_malaria.pdf)
