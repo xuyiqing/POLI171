@@ -39,7 +39,7 @@ concepts
 I disccus one real-world application at the beginning of each class.
 
 * [Can Policing Protocols Imporve Stop-and-frisk Practices?](./2017spring/PB01_stop_frisk.pdf)
-* [Robert and Jobs](./2017spring/PB02_robot_jobs.pdf)
+* [Robots and Jobs](./2017spring/PB02_robot_jobs.pdf)
 * [Inequality and Support for Redistribution](./2017spring/PB03_inequality.pdf)
 * [Management and Productivity in Firms](./2017spring/PB04_management.pdf)
 * [Fighting Corruption](./2017spring/PB05_corruption.pdf)
